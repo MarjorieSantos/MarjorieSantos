@@ -1,9 +1,8 @@
 ## Marj Santos - @yrmoon
  
-:mortar_board: Estudando para me tornar programadora front-end Jr.
+:mortar_board: Desenvolvedora Front-End Jr.
+- Possuo experiência na área da educação e migrei para a área de desenvolvimento em buscas de novos desafios e com o objetivo de aplicar meus conhecimentos educacionais à tecnologia. 
 
 :maple_leaf: Fã de animações em geral e amante de the walking dead.
-
-Jogadora de Valorant
 
 :blossom: Se quiser entrar em contato comigo, me chame no [Linkedin](www.linkedin.com/in/marjorie-scf)
