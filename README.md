@@ -2,6 +2,7 @@
 <img  width="300px"   src='https://thumbs.gfycat.com/FlawlessFaintBull.webp'>
  
 :mortar_board: Desenvolvedora Front-End Jr. <br>
+<br>
      ▾ JavaSacript Vanilla e ES6 <br>
      ▾ React Hooks <br>
      ▾ HTML <br>
