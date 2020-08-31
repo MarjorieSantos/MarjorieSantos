@@ -1,4 +1,5 @@
 ## Marj Santos - @yrmoon
+<img  width="200px"  src='https://thumbs.gfycat.com/WhichRawIslandcanary.webp'>
  
 :mortar_board: Desenvolvedora Front-End Jr.
 - Possuo experiência na área da educação e migrei para a área de desenvolvimento em buscas de novos desafios e com o objetivo de aplicar meus conhecimentos educacionais à tecnologia. 
