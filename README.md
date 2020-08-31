@@ -1,7 +1,7 @@
 ## Marj Santos - @yrmoon
 <img  width="300px"   src='https://thumbs.gfycat.com/FlawlessFaintBull.webp'>
  
-:mortar_board: Desenvolvedora Front-End Jr.
+:mortar_board: Desenvolvedora Front-End Jr. /br
      ▾ JavaSacript Vanilla e ES6
      ▾ React Hooks
      ▾ HTML
